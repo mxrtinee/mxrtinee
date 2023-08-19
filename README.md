@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Martin from , and I am a Full-Stack Web Developer. I really enjoy learning languages and frameworks like React Native. I also enjoy Graphic Design. You can checkout my twitter at twitter.com/ or Instagram.com/.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxrtinee)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mxrtinee/mxrtinee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
