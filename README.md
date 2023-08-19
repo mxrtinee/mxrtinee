@@ -1,10 +1,12 @@
-### Hi there 👋, Martin Estrada
-#### Web Development and Graphic Design
-![Web Development and Graphic Design](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Development and Graphic Design](https://github.com/mxrtinee/mxrtinee/blob/main/Program-Code-Feature-Image.jpg)
 
-I'm Martin, and I am a Full-Stack Web Developer. I really enjoy learning languages and frameworks like React Native. I also enjoy Graphic Design. You can checkout my twitter at twitter.com/_martindev or Instagram.com/martin.developer.
+# Hi there 👋, I'm Martin Estrada
+I'm Martin, and I am a Full-Stack Web Developer. I really enjoy learning languages and frameworks like React. I also enjoy Graphic Design. You can checkout my twitter at twitter.com/_martindev or Instagram.com/martin.developer.
 
-Skills: REACT / JS / HTML / CSS
+ ## Skills and Experience
+ 
+ ⚛️ REACT
+ 💻 JS / HTML / CSS
 
 - 🔭 I’m currently working on becoming a Software Engineer 
 - 🌱 I’m currently learning Server-Side APIs 
