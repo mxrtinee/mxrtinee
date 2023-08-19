@@ -1,19 +1,16 @@
-### Hi there 👋
+### Hi there 👋, Martin Estrada
+#### Web Development and Graphic Design
+![Web Development and Graphic Design](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm Martin from , and I am a Full-Stack Web Developer. I really enjoy learning languages and frameworks like React Native. I also enjoy Graphic Design. You can checkout my twitter at twitter.com/ or Instagram.com/.
+I'm Martin, and I am a Full-Stack Web Developer. I really enjoy learning languages and frameworks like React Native. I also enjoy Graphic Design. You can checkout my twitter at twitter.com/_martindev or Instagram.com/martin.developer.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxrtinee)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**mxrtinee/mxrtinee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: REACT / JS / HTML / CSS
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on becoming a Software Engineer 
+- 🌱 I’m currently learning Server-Side APIs 
+- 📫 How to reach me: info@martinestrada.dev 
+- ⚡ Fun fact: I have two dogs, one is named Lucy, she is a white Maltese/Poodle and the other is named Capulina, she is a black Miniauture Poodle.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mxrtinee)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/mxrtinee)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/martin.developer/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/_martindev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/22160518)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](martinestrada.dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](info@martinestrada.dev)  
+
