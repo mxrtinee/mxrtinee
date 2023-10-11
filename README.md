@@ -3,9 +3,9 @@
 # Hi there 👋, I'm Martin Estrada
 I'm Martin, and I am a Full-Stack Web Developer. I really enjoy learning languages and frameworks like React. I also enjoy Graphic Design. You can checkout my twitter at twitter.com/_martindev or Instagram.com/martin.developer.
 
-- 🔭 I’m currently working on becoming a Software Engineer 
-- 🌱 I’m currently learning Server-Side APIs 
-- 📫 How to reach me: info@martinestrada.dev 
+- 🔭 I’m currently working on becoming a Full Stack Software Engineer 
+- 🌱 I’m currently learning Object Relational Mapping
+- 📫 How to reach me: hello@martinestrada.dev 
 - ⚡ Fun fact: I have two dogs, one is named Lucy, she is a white Maltese/Poodle and the other is named Capulina, she is a black Miniauture Poodle.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mxrtinee&label=Profile%20views&color=0e75b6&style=flat" alt="mxrtinee" /> </p>
