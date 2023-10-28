@@ -1,7 +1,7 @@
 ![Web Development and Graphic Design](https://github.com/mxrtinee/mxrtinee/blob/main/Program-Code-Feature-Image.jpg)
 
 # Hi there 👋, I'm Martin Estrada
-I'm Martin, and I am a Full-Stack Web Developer. I really enjoy learning languages and frameworks like React. I also enjoy Graphic Design. You can checkout my twitter at twitter.com/_martindev or Instagram.com/martin.developer.
+I am a Full-Stack Web Developer. I really enjoy learning languages and frameworks like React. I also enjoy Graphic Design. You can checkout my twitter at twitter.com/_martindev or Instagram.com/martin.developer.
 
 - 🔭 I’m currently working on becoming a Full Stack Software Engineer 
 - 🌱 I’m currently learning Computer Science for JavaScript
