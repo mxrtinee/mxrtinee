@@ -4,7 +4,7 @@
 I'm Martin, and I am a Full-Stack Web Developer. I really enjoy learning languages and frameworks like React. I also enjoy Graphic Design. You can checkout my twitter at twitter.com/_martindev or Instagram.com/martin.developer.
 
 - 🔭 I’m currently working on becoming a Full Stack Software Engineer 
-- 🌱 I’m currently learning Object Relational Mapping
+- 🌱 I’m currently learning Computer Science for JavaScript
 - 📫 How to reach me: hello@martinestrada.dev 
 - ⚡ Fun fact: I have two dogs, one is named Lucy, she is a white Maltese/Poodle and the other is named Capulina, she is a black Miniauture Poodle.
 
